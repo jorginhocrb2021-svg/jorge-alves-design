@@ -1,0 +1,7 @@
+JORGE ALVES — SITE DE PORTFÓLIO
+
+Abra index.html para visualizar. Para publicar, envie todos os arquivos mantendo a pasta assets.
+
+PENDÊNCIAS: adicionar foto P&B autorizada na página designer.html; confirmar Instagram; atualizar URL pública após publicação; aprovar valores e condições dos planos.
+
+O portfólio inclui prévias das páginas 3 a 10 do PDF de portfólio disponível, não arquivos individuais de cada obra.
