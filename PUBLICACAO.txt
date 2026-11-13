@@ -1,4 +1,6 @@
-SITE JORGE ALVES - VERSÃO ATUALIZADA
-Instagram: https://www.instagram.com/jorgealves.designgrafico/
+Site publicado no GitHub Pages:
+https://jorginhocrb2021-svg.github.io/jorge-alves-design/
+
+Publicação automática a partir da branch main.
 WhatsApp: https://wa.me/5582991113461
-O site ainda não está publicado. Para publicar no GitHub Pages, envie todos os arquivos desta pasta para um repositório e habilite Pages em Settings > Pages. O endereço público deve ser adicionado depois de conhecido.
+Instagram: https://www.instagram.com/jorgealves.designgrafico/
